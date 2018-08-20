@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 1 April 2018 Software v.3.9.5 2018-08-15
+Basic Report
+Report Run at: August 19 2018 18:51 EDT
+"Nutrient data for: Syrup, Cane"
+Nutrient,Unit,1Value per 100 g,"1 serving = 21.0g",
+Proximates
+"Water",g,26.00,5.46
+"Energy",kcal,269,56
+"Protein",g,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00
+"Carbohydrate, by difference",g,73.14,15.36
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,73.20,15.37
+Minerals
+"Calcium, Ca",mg,13,3
+"Iron, Fe",mg,3.60,0.76
+"Magnesium, Mg",mg,10,2
+"Phosphorus, P",mg,8,2
+"Potassium, K",mg,63,13
+"Sodium, Na",mg,58,12
+"Zinc, Zn",mg,0.19,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.130,0.027
+"Riboflavin",mg,0.060,0.013
+"Niacin",mg,0.100,0.021
+"Vitamin B-6",mg,0.000,0.000
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

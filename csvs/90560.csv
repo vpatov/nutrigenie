@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 1 April 2018 Software v.3.9.5 2018-08-15
+Basic Report
+Report Run at: August 19 2018 18:51 EDT
+"Nutrient data for: Mollusks, snail, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,79.20,67.32
+"Energy",kcal,90,76
+"Protein",g,16.10,13.69
+"Total lipid (fat)",g,1.40,1.19
+"Carbohydrate, by difference",g,2.00,1.70
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,8
+"Iron, Fe",mg,3.50,2.98
+"Magnesium, Mg",mg,250,212
+"Phosphorus, P",mg,272,231
+"Potassium, K",mg,382,325
+"Sodium, Na",mg,70,60
+"Zinc, Zn",mg,1.00,0.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.010,0.009
+"Riboflavin",mg,0.120,0.102
+"Niacin",mg,1.400,1.190
+"Vitamin B-6",mg,0.130,0.111
+"Folate, DFE",µg,6,5
+"Vitamin B-12",µg,0.50,0.42
+"Vitamin A, RAE",µg,30,26
+"Vitamin A, IU",IU,100,85
+"Vitamin E (alpha-tocopherol)",mg,5.00,4.25
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.361,0.307
+"Fatty acids, total monounsaturated",g,0.259,0.220
+"Fatty acids, total polyunsaturated",g,0.252,0.214
+"Cholesterol",mg,50,42
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 1 April 2018 Software v.3.9.5 2018-08-15
+Basic Report
+Report Run at: August 19 2018 18:51 EDT
+"Nutrient data for: Mollusks, scallop, (bay and sea), cooked, steamed"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,70.25,59.71
+"Energy",kcal,111,94
+"Protein",g,20.54,17.46
+"Total lipid (fat)",g,0.84,0.71
+"Carbohydrate, by difference",g,5.41,4.60
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,8
+"Iron, Fe",mg,0.58,0.49
+"Magnesium, Mg",mg,37,31
+"Phosphorus, P",mg,426,362
+"Potassium, K",mg,314,267
+"Sodium, Na",mg,667,567
+"Zinc, Zn",mg,1.55,1.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.012,0.010
+"Riboflavin",mg,0.024,0.020
+"Niacin",mg,1.076,0.915
+"Vitamin B-6",mg,0.112,0.095
+"Folate, DFE",µg,20,17
+"Vitamin B-12",µg,2.15,1.83
+"Vitamin A, RAE",µg,2,2
+"Vitamin A, IU",IU,5,4
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,2,2
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.218,0.185
+"Fatty acids, total monounsaturated",g,0.082,0.070
+"Fatty acids, total polyunsaturated",g,0.222,0.189
+"Fatty acids, total trans",g,0.009,0.008
+"Cholesterol",mg,41,35
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Samples were obtained from 12 retail stores using a probability-based sampling plan.  Some fish had been treated during processing to retain moisture on thawing.  Untreated fish = 265 mg sodium/100g."
