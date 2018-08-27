@@ -1,5 +1,7 @@
 Thinking of diet as a constraint optimization problem: Health, Cost, and Taste.
 
+Taste and Cost will be difficult to obtain, so perhaps it is best to start with just Health (recommended daily intakes).
+
 Scraping USDA's database of nutrition information (not necessarily relaible because of the dystopic world we live in, but the best large source easily availablethat I've been able to find).
 
 Researching and curating a list of daily recommended intakes and limits.
